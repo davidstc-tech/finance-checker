@@ -18,4 +18,10 @@ and connects only my own accounts. It has no other users.
 - Disconnecting a bank in the app removes it from Plaid and deletes its data
   from my computer. Disconnecting Oura in the app deletes its sign-in tokens.
 
+## Terms
+- This app is for my personal use only. It is not offered to anyone else, and no one
+  else can sign up for it or connect their accounts.
+- It is provided as is, with no warranty. It only reads my own data from Plaid and
+  Oura to show it to me.
+
 Contact: <tdavidson240@gmail.com>
