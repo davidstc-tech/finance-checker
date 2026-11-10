@@ -15,7 +15,8 @@ and connects only my own accounts. It has no other users.
   my computer, which uses full-disk encryption. The Oura sign-in tokens and the Garmin key are kept
   in the macOS Keychain.
 - Health data from Oura and workout data from Garmin are only displayed to me. They are not
-  sent to any other service, including AI services.
+  sent to any other service, including AI services. Showing a workout's route loads map
+  images from OpenStreetMap, which can see the map area being viewed.
 - The app does not run on any public server and cannot be reached from the internet.
 - Disconnecting a bank in the app removes it from Plaid and deletes its data
   from my computer. Disconnecting Oura in the app deletes its sign-in tokens. Removing the Garmin key in the app
